@@ -5,9 +5,7 @@ import Card from "./Card.js";
 function Grid(props) {
     return (
         <div class="cards">
-            {props.imgUrls.map(
-                img => (<Card src={img.url}/>) 
-            )}
+            {props.images.map(img => (<Card src={images.url}/>))}
         </div>
     );
 }
