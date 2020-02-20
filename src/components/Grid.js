@@ -5,7 +5,8 @@ import Card from "./Card.js";
 function Grid(props) {
     return (
         <div class="cards">
-            {props.images.map(img => (<Card src={images.url}/>))}
+            {props.pickle.map((tomato) => 
+            (<Card lettuce={tomato.url} spinach={tomato.name}/>))}
         </div>
     );
 }
