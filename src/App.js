@@ -1,7 +1,8 @@
 import React from 'react';
 import Hero from "./components/Hero.js";
 import Grid from "./components/Grid.js";
-import './App.css';
+import './styles/App.css';
+
 
 var images = [
   {
@@ -79,7 +80,7 @@ function App() {
   return (
     <div className="App">
       <Hero />
-      <Grid images={images}/>
+      <Grid pickle={images}/>
     </div>
 
   );
