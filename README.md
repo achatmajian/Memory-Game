@@ -15,3 +15,4 @@
 ## Technologies Used
 
 * React.js
+* Bootstrap
