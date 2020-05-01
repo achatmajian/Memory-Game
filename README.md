@@ -22,4 +22,4 @@
 * https://arek-react-memory-game.herokuapp.com/
 
 ## Screenshot
-![Image of HomeScreen](https://i.ibb.co/sg2hYHJ/silver-slippers-screenshot.png)
+![Image of HomeScreen](https://i.ibb.co/3RBs8kd/memory-game-screenshot.png)
