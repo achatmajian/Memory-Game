@@ -16,3 +16,7 @@
 
 * React.js
 * Bootstrap
+
+## Link to Deployed App
+
+* https://arek-react-memory-game.herokuapp.com/
