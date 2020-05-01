@@ -20,3 +20,6 @@
 ## Link to Deployed App
 
 * https://arek-react-memory-game.herokuapp.com/
+
+## Screenshot
+![Image of HomeScreen](https://i.ibb.co/sg2hYHJ/silver-slippers-screenshot.png)
